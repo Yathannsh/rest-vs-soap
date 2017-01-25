@@ -1,8 +1,3 @@
-# Java EE 7 Samples: Websocket 1.0#
-
-The [JSR 356](https://jcp.org/en/jsr/detail?id=303) specifies a standard API for creating WebSocket applications.
-
-## Samples ##
 
  - chat
  - encoder
@@ -33,9 +28,6 @@ The [JSR 356](https://jcp.org/en/jsr/detail?id=303) specifies a standard API for
  - whiteboard
  - endpoint-singleton
  - websocket-vs-rest-payload
- 
-## How to run
 
-More information on how to run can be found at: <https://github.com/javaee-samples/javaee7-samples#how-to-run->
 
 
